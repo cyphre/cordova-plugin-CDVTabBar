@@ -158,12 +158,12 @@
     tabBar.barStyle = UIBarStyleDefault;
     
     //[tabBar setBarTintColor:[UIColor colorWithRed:218.0/255.0 green:33.0/255.0 blue:39.0/255.0 alpha:1.0]];
-    [tabBar setTintColor:[UIColor colorWithRed:218.0/255.0 green:33.0/255.0 blue:39.0/255.0 alpha:1.0]];
+    //[tabBar setTintColor:[UIColor colorWithRed:218.0/255.0 green:33.0/255.0 blue:39.0/255.0 alpha:1.0]];
     //[tabBar setBackgroundColor:[UIColor colorWithRed:218.0/255.0 green:33.0/255.0 blue:39.0/255.0 alpha:1.0]];
     
     
     //[tabBar setSelectedImageTintColor:[UIColor redColor]];
-    [tabBar setTintColor:[UIColor redColor]];
+    //[tabBar setTintColor:[UIColor redColor]];
     
     self.webView.superview.autoresizesSubviews = YES;
     
