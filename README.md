@@ -7,7 +7,7 @@ You should also install CDVNavBar plugin to work properly.
 
 ## Installation
 
-    cordova plugin add cordova-plugin-cdvtabbar
+    cordova plugin add cordova-plugin-cdvtabbar-cyphrefork
 
 
 ### Supported Platforms
