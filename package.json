@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-cdvtabbar-cyphrefork",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Add Native TabBar to your Cordova Applications",
   "cordova": {
     "id": "cordova-plugin-CDVTabBar-cyphrefork",
